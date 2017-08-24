@@ -8,9 +8,9 @@ ul {
 }
 
 li {
-    float:none;
+    float:left;
 }
-.nav a {
+li a {
     display:block;
     padding: 15px;
     background-color:#FFE2E2;
